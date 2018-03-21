@@ -1,3 +1,3 @@
 <?php
-echo hello sina!
+echo "456789";
 ?>
